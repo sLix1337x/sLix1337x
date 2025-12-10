@@ -15,7 +15,7 @@
 - Discord → discord.gg/32V9Q6uMg3
 - Mail → sLx1337@mail.de
 
-Open for freelance design or interesting CS2-related projects. Just shoot me a message!
+Open for design or interesting CS2-related projects. Just shoot me a message!
 
 *“Good design is invisible. Bad players aren’t.”* 😏
 
