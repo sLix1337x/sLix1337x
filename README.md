@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome (@sLix1337x)
 
-<!--
-**sLix1337x/sLix1337x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-Here are some ideas to get you started:
+**Graphic Designer** 🎨 + **Full-Stack Developer** ⚡️  
+**Founder of CS2 Guard** – the independent CS2 statistics & cheater-tracking platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Get in touch
+- Website → [cs2guard.com](https://cs2guard.com)
+- Discord → discord.gg/32V9Q6uMg3
+- Mail → sLx1337@mail.de
+
+Open for freelance design or interesting CS2-related projects. Just shoot me a message!
+
+*“Good design is invisible. Bad players aren’t.”* 😏
+
+<img width="1376" height="66" alt="banner" src="https://github.com/user-attachments/assets/4b16fca3-fb0f-47e6-a811-3199d63d539c" />
