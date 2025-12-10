@@ -16,7 +16,5 @@
 - Mail → sLx1337@mail.de
 
 Open for design or interesting CS2-related projects. Just shoot me a message!
-
-*“Good design is invisible. Bad players aren’t.”* 😏
-
 <img width="1376" height="66" alt="banner" src="https://github.com/user-attachments/assets/ecb808dd-7795-4937-bc3f-a2c890fc36d7" />
+*“Good design is invisible. Bad players aren’t.”* 😏
