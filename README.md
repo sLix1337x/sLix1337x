@@ -11,16 +11,12 @@
 **Graphic Designer** 🎨 + **Full-Stack Developer** ⚡️  
 **Founder of CS2 Guard** – the independent CS2 statistics & cheater-tracking platform
 
-### 📬 Get in touch
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
 - Website → [cs2guard.com](https://cs2guard.com)
 - Discord → discord.gg/32V9Q6uMg3
 - Mail → sLx1337@mail.de
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/audio666_/" target="blank"><img align="center"
-alt="https://www.instagram.com/audio666_/" height="30" width="40" /></a>
-</p>
 
 Open for design or interesting CS2-related projects. Just shoot me a message!
 <img width="1376" height="66" alt="banner" src="https://github.com/user-attachments/assets/ecb808dd-7795-4937-bc3f-a2c890fc36d7" />
