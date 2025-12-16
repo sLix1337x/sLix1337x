@@ -1,4 +1,5 @@
-# Welcome (@sLix1337x)
+<h1 align="center">Hi 👋, I'm sLix1337</h1>
+<h3 align="center">A passionate developer from Germany</h3>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
